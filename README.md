@@ -13,7 +13,8 @@ Add a search box to filter the list of post offices by name and branch office.
 
 Create a UI according to the design in the Figma ==> [Figma Link](https://www.figma.com/file/PwKrL5twQM6cDwWmL2HoYK/Untitled?node-id=0-1&t=Lo4Jnf4QGzxO0aCH-0)
 
-API request :--  - https://ipinfo.io/${IP}/geo
-                 * https://api.postalpincode.in/pincode/${pincode}
+API request :--  
+- IP address => https://ipinfo.io/${IP}/geo
+* Pincode    => https://api.postalpincode.in/pincode/${pincode}
 
                  
